@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "my-expo-boilerplate",
+    "slug": "my-expo-boilerplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
